@@ -1,6 +1,6 @@
-# tictactoe with C
+# tictactoe with C #
 
 to play it in terminal
 
-## cd "game.c folder"
-## ./test.sh
+## cd "game.c folder" ##
+## ./test.sh ##
